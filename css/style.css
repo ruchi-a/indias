@@ -1,0 +1,33 @@
+body {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 115%;
+}
+header{
+    background-color: darkcyan;
+}
+nav {
+    background-color: blue;
+}
+main{
+    background-color: brown;
+    font-size:small;
+}
+footer{
+    background-color: chartreuse;
+}
+h1{
+    text-align: justify;
+    font-family: 'Times New Roman', Times, serif;
+    color: darkorange;
+}
+p{
+    line-height: 0vh;
+}
+img{
+    width: 500px;
+    height: 250px;
+}
+div{
+    
+    display: inline-block;
+}
